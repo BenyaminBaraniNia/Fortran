@@ -1,3 +1,8 @@
+!----------------------------------------------------------------------------------|
+! Problem #3                                                                       |
+! Description: Write a program to calculate the area of a circle given its radius. |
+!----------------------------------------------------------------------------------|
+
 program AreaCircle
   implicit none
   real :: radius, area

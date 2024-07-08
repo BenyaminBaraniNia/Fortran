@@ -1,3 +1,8 @@
+!----------------------------------------------------------------------------------|
+! Problem #2                                                                       |
+! Description: Write a program to read two integers and print their sum.           |
+!----------------------------------------------------------------------------------|
+
 program SumTwoNumbers
     implicit none
     integer :: a, b, sum

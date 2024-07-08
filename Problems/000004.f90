@@ -1,3 +1,8 @@
+!----------------------------------------------------------------------------------|
+! Problem #4                                                                       |
+! Description: Write a program to convert Fahrenheit to Celsius.                   |
+!----------------------------------------------------------------------------------|
+
 program FahrenheitToCelsius
   implicit none
   real :: fahrenheit, celsius

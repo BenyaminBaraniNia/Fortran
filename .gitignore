@@ -31,4 +31,6 @@
 *.out
 *.app
 
+# Testing
 test.ipynb
+test.f90

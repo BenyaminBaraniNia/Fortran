@@ -7,3 +7,5 @@
 6. **Fibonacci Sequence:** Write a program to generate the first n terms of the Fibonacci sequence.
 7. **Prime Number Check:** Write a program to check if a given number is prime.
 8. **Sum of Digits:** Write a program to calculate the sum of the digits of a given number.
+9. **Largest of Three Numbers:** Write a program to find the largest of three numbers.
+10.

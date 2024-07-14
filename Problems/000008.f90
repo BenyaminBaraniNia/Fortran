@@ -17,4 +17,3 @@ program SumOfDigits
   end do
   print *, 'Sum of digits = ', sum
 end program SumOfDigits
-  

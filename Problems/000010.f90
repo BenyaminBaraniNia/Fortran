@@ -15,6 +15,3 @@ program SumEvenNumbers
   end do
   print *, 'Sum of even numbers = ', sum
 end program SumEvenNumbers
-
-  
-    

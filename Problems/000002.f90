@@ -10,4 +10,4 @@ program SumTwoNumbers
     read *, a, b
     sum = a + b
     print *, 'Sum = ', sum
-  end program SumTwoNumbers  
+end program SumTwoNumbers  

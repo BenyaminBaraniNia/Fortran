@@ -17,6 +17,4 @@ program LargestOfThree
       largest = c
     end if
     print *, 'Largest number is', largest
-  end program LargestOfThree
-  
-    
+end program LargestOfThree  

@@ -26,4 +26,3 @@ program PrimeCheck
     print *, n, 'is not a prime number.'
   end if
 end program PrimeCheck
-  

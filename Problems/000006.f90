@@ -19,4 +19,3 @@ program Fibonacci
   print *, 'Fibonacci sequence:'
   print *, fib
 end program Fibonacci
-  
